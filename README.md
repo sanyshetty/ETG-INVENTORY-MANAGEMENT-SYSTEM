@@ -1,5 +1,6 @@
 # IMS - INVENTORY-MANAGEMENT-SYSTEM
 JSON based Inventory Management System 
+
 PYTHON CODE FOR MAKING INVENTORY MANAGEMENT SYSTEM USING JSON
 
 Inventory Management System Assignment we are supposed to convert dictionary data into json format using **json** module in python.
